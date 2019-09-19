@@ -1,0 +1,26 @@
+html {
+    background-color: darkred;
+    padding: 150px;
+}
+
+body {
+    background-color: white;
+    margin: 0 auto;
+    width: 600px;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+h1, h3 {
+    text-decoration: underline;
+    font-family: Gayathri;
+}
+
+p {
+    font-family: Lato;
+}
+
+button {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
